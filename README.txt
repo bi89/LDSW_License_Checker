@@ -10,8 +10,9 @@
 ReadExcel สำหรับคัดลองไฟล์ Excel มายังหน้า Desktop (NECTEC\serial_Starter\excelStarter)
 ข้อควรรู้
 
-1. ต้องมีโปรแกรม Microsoft Excel
-2. ต้องรันด้วยระบบปฏิบัติการ Windows
+1. ต้องเสียบ Flash Drive ของ NECTEC (ใช้ได้เฉพาะรุ่นของปี 2559 ขั้นไปเท่านั้น)
+2. ต้องมีโปรแกรม Microsoft Excel
+3. ต้องรันด้วยระบบปฏิบัติการ Windows
 
 
 ไฟล์ทั้งสองจะให้ถูกสร้างเป็น Shortcut ในหน้า Desktop
